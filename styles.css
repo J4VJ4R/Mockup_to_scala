@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+.container{
+    width: 1920px;
+    height: 1080px;
+    margin: 0;
+    background-color: transparent;
+}
+.title{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50%;
+}
+.left{
+
+}
+.right{
+    width: 50%;
+    height: 100%;
+    margin: 0 960px;
+    background-color: cornflowerblue;
+}
+.right__categories{
+    background-color: blueviolet;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+.title__categories{
+    text-align: center;
+    color: white;
+    padding-left: 500%;
+}
